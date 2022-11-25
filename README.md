@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mathias Bruun, a political scientist turned data scientist. Fluent in 𝙿𝚢𝚝𝚑𝚘𝚗 and 𝚁.
+- 👀 I’m interested in design-based causal inference, machine learning, and behavioural approaches to political and social research.
+- 💼 Much of my data science work is proprietary, but some personal and academic projects may be made publicly available here.
+- 📫 Please feel free to reach out to me at [pvf607@alumni.ku.dk](mailto:pvf607@alumni.ku.dk) for academic collaborations or at [mathias.b@adviceagency.com](mailto:mathias.b@adviceagency.com) for professional inquiries.
