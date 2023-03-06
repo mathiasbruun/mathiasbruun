@@ -1,5 +1,5 @@
-- 👋🏼 Hi, I’m [Mathias Bruun](https://www.linkedin.com/in/mathias-bruun/), a political scientist turned data scientist. Fluent in 𝙿𝚢𝚝𝚑𝚘𝚗 and 𝚁. Currently writing my master's thesis @ Copenhagen Center for Social Data Science ([SODAS](https://sodas.ku.dk/)). Also building NLP tools @ [Advice](https://adviceagency.com/).
+- 👋🏼 Hi, I’m [Mathias Bruun](https://www.linkedin.com/in/mathias-bruun/), a political scientist turned data scientist. Fluent in 𝙿𝚢𝚝𝚑𝚘𝚗 and 𝚁. Currently writing my master's thesis @ Copenhagen Center for Social Data Science ([SODAS](https://sodas.ku.dk/)) and building NLP tools for distilling massive text corpora into political and business insights.
 - 👀 I’m interested in design-based causal inference, language modelling, machine learning, and behavioural approaches to political and social research.
 - 💼 Much of my data science work is proprietary, but some personal and academic projects may be made publicly available here.
-- 📫 Please feel free to reach out to me at [pvf607@alumni.ku.dk](mailto:pvf607@alumni.ku.dk) for academic collaborations or at [mathias.b@adviceagency.com](mailto:mathias.b@adviceagency.com) for professional inquiries.
+- 📫 Please feel free to reach out to me at [pvf607@alumni.ku.dk](mailto:pvf607@alumni.ku.dk) for collaborations.
 - 📄 Download a recent copy of my résumé [here](https://github.com/mathiasbruun/mathiasbruun.github.io/raw/main/Mathias_Bruun_Resume.pdf).
