@@ -1,5 +1,5 @@
 - 👋🏼 Hi, I’m [Mathias Bruun](https://www.linkedin.com/in/mathias-bruun/), a political scientist turned data scientist. Fluent in 𝙿𝚢𝚝𝚑𝚘𝚗 and 𝚁. I deliver strategic business impact through human-centered quantitative insights.
 - 👀 I’m interested in design-based causal inference, language modelling, machine learning, and behavioural approaches to political, social, and business research.
 - 💼 Much of my data science work is proprietary and/or hosted elsewhere, but some personal and academic projects may be made publicly available here.
-- 📫 Please feel free to reach out to me at [mathias@itdepends.dk@alumni.ku.dk](mailto:mathias@itdepends.dk) for collaborations or business inquiries.
+- 📫 Please feel free to reach out to me at [mathias@itdepends.dk](mailto:mathias@itdepends.dk) for collaborations or business inquiries.
 - 📄 Download a recent copy of my résumé [here](https://github.com/mathiasbruun/mathiasbruun.github.io/raw/main/Mathias_Bruun_Resume.pdf).
