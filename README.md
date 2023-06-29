@@ -6,4 +6,4 @@
 
 <br>
 
-<a target="_blank" href="https://www.itdepends.dk" rel="itdepends.dk">![itdepends.dk](typewriter.svg)</a>
+&nbsp; <a target="_blank" href="https://www.itdepends.dk" rel="itdepends.dk">![itdepends.dk](typewriter.svg)</a>
