@@ -1,3 +1,7 @@
+<div style="width: 100%;">
+  <img src="typewriter.svg" style="width: 25%;" alt="Click to see the source">
+</div>
+
 - 👋🏼 Hi, I’m [Mathias Bruun](https://www.linkedin.com/in/mathias-bruun/), a political scientist turned data scientist. Fluent in 𝙿𝚢𝚝𝚑𝚘𝚗 and 𝚁. I deliver strategic business impact through human-centered quantitative insights.
 - 👀 I’m interested in design-based causal inference, language modelling, machine learning, and behavioural approaches to political, social, and business research.
 - 💼 Much of my data science work is proprietary and/or hosted elsewhere, but some personal and academic projects may be made publicly available here.
