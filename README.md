@@ -3,3 +3,5 @@
 - 💼 Much of my data science work is proprietary and/or hosted elsewhere, but some personal and academic projects may be made publicly available here.
 - 📫 For business inquiries, please reach out to me at [mathias@itdepends.dk](mailto:mathias@itdepends.dk).
 - 📄 Download a recent copy of my résumé [here](https://github.com/mathiasbruun/mathiasbruun.github.io/raw/main/Mathias_Bruun_Resume.pdf).
+
+![](typewriter.svg)
