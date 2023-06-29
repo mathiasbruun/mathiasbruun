@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 200 100" width="200" height="75" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="200" height="30" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -17,12 +17,12 @@ body {
   font-family: monospace;
   font-weight: lighter;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid orange; /* The typwriter cursor */
+  border-right: .15em solid #f0a605; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
   animation: 
-    typing 2.5s steps(30, end),
+    typing 3s steps(30, end) infinite,
     blink-caret .5s step-end infinite;
 }
 
@@ -35,7 +35,7 @@ body {
 /* The typewriter cursor effect */
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: orange }
+  50% { border-color: #f0a605 }
 }
 </style>
 
