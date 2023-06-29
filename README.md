@@ -4,4 +4,6 @@
 - 📫 For business inquiries, please reach out to me at [mathias@itdepends.dk](mailto:mathias@itdepends.dk).
 - 📄 Download a recent copy of my résumé [here](https://github.com/mathiasbruun/mathiasbruun.github.io/raw/main/Mathias_Bruun_Resume.pdf).
 
-<a target="_blank" href="https://www.itdepends.dk" rel="some text">![Foo](typewriter.svg)</a>
+<br>
+
+<a target="_blank" href="https://www.itdepends.dk" rel="itdepends.dk">![itdepends.dk](typewriter.svg)</a>
