@@ -2,8 +2,8 @@
 - 👀 I’m interested in design-based causal inference, language modelling, machine learning, and behavioural approaches to political, social, and business research.
 - 💼 Much of my data science work is proprietary and/or hosted elsewhere, but some personal and academic projects may be made publicly available here.
 - 📫 For business inquiries, please reach out to me at [mathias@itdepends.dk](mailto:mathias@itdepends.dk).
-- 📄 Download a recent copy of my résumé [here](https://github.com/mathiasbruun/mathiasbruun.github.io/raw/main/Mathias_Bruun_Resume.pdf).
+- 📄 Download a recent copy of my résumé [here](https://github.com/mathiasbruun/mathiasbruun/raw/main/MB_CV.pdf).
 
 <br>
 
-&nbsp; <a target="_blank" href="https://www.itdepends.dk" rel="itdepends.dk">![itdepends.dk](https://raw.githubusercontent.com/mathiasbruun/mathiasbruun/88530ccf597a499698cb777a7486e4c9844cdff8/typewriter.svg)</a>
+&nbsp;&nbsp; <a target="_blank" href="https://www.itdepends.dk" rel="itdepends.dk">![itdepends.dk](https://raw.githubusercontent.com/mathiasbruun/mathiasbruun/88530ccf597a499698cb777a7486e4c9844cdff8/typewriter.svg)</a>
