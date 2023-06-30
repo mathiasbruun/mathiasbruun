@@ -6,4 +6,4 @@
 
 <br>
 
-&nbsp;&nbsp; <a target="_blank" href="https://www.itdepends.dk" rel="itdepends.dk">![itdepends.dk](https://raw.githubusercontent.com/mathiasbruun/mathiasbruun/88530ccf597a499698cb777a7486e4c9844cdff8/typewriter.svg)</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a target="_blank" href="https://www.itdepends.dk" rel="itdepends.dk">![itdepends.dk](https://raw.githubusercontent.com/mathiasbruun/mathiasbruun/88530ccf597a499698cb777a7486e4c9844cdff8/typewriter.svg)</a>
