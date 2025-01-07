@@ -6,4 +6,4 @@
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.itdepends.dk" rel="itdepends.dk">![itdepends.dk](https://raw.githubusercontent.com/mathiasbruun/mathiasbruun/2fc8dbd62885e992e97b4ceecaa98dd7ff2595e8/typewriter.svg)</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Data science is too powerful to leave to engineers](https://github.com/mathiasbruun/mathiasbruun/blob/main/LI_itdepends_lighter.png?raw=true)](https://itdepends.dk/)
