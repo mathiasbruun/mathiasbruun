@@ -39,3 +39,6 @@ This is what that feels like:
 We quantify human needs to unlock growth opportunities. [Read our case studies](https://www.itdepends.dk/cases) to learn how it works.
 
 Or, if you simply want to pick the brain of a consumer insights expert, no strings attached: [mathias@itdepends.dk](mailto:mathias@itdepends.dk)
+
+### Specialties
+_consumer insights, market research, consumer segmentation, human-centred innovation, go-to-market strategy, business strategy, data strategy, insigths upskilling, AI literacy, behavioural insigths, psychographic segmentation, A/B testing, data mining, text-as-data, and social impact assessment_
