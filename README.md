@@ -1,9 +1,39 @@
-- 👋🏼 Hi, I’m [Mathias Bruun](https://www.linkedin.com/in/mathias-bruun/), a political scientist turned data scientist. Fluent in 𝙿𝚢𝚝𝚑𝚘𝚗 and 𝚁. I deliver strategic business impact through human-centred quantitative insights.
-- 👀 I’m interested in design-based causal inference, language modelling, machine learning, and behavioural approaches to political, social, and business research.
-- 💼 Much of my data science work is confidential and/or hosted elsewhere, but some personal and academic projects may be made publicly available here.
-- 📫 For business inquiries, please reach out to me at [mathias@itdepends.dk](mailto:mathias@itdepends.dk).
-- 📄 Download a recent copy of my résumé [here](https://github.com/mathiasbruun/mathiasbruun/raw/main/MB_CV.pdf).
+I quit my job to co-found [the human-centred insights consultancy](https://www.itdepends.dk/) that nobody else was going to.
 
-<br>
+We partner with B2C companies, non-profits, and public institutions to design offerings that meet human needs.
 
-&nbsp;&nbsp;&nbsp;&nbsp; [![Data science is too powerful to leave to engineers](https://github.com/mathiasbruun/mathiasbruun/blob/main/LI_itdepends_lighter.png?raw=true)](https://itdepends.dk/)
+Uncover the social and psychological drivers of desired customer behaviour. Carve out high-impact market segments. Design products, services, and communications to serve unmet needs.
+
+Ever been in a boardroom where everyone trusts their own gut feeling about what your target audience needs? We bring the numbers.
+
+## Access high-touch expertise
+
+Partnering with [It depends](https://www.itdepends.dk/) means dealing exclusively with trusted senior experts. We plug directly into your team, we move fast, and we execute projects from end to end.
+
+This is what that feels like:
+
+---
+
+> "I'm so relieved to have you here. It's like having somebody come round to do work on your house, and you just have this feeling that they know what they're doing."
+>
+> – Project Lead, multinational manufacturing company
+
+---
+
+> "We worked with some other consultants who ran into a lot of trouble on this in the past. Guess they hired the wrong people."
+>
+> – Director, F&B company
+
+---
+
+> "I still think about that slide all the time."
+>
+> – Lead Innovation Consultant (months after said slide was delivered)
+
+---
+
+## Learn how we can help you
+
+We quantify human needs to unlock growth opportunities. Read our case studies to learn how it works: [www.itdepends.dk/cases](www.itdepends.dk/cases)
+
+Or, if you simply want to pick the brain of a consumer insights expert, no strings attached: [mathias@itdepends.dk](mailto:mathias@itdepends.dk)
