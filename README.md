@@ -1,3 +1,5 @@
+# It depends: We quantify human needs to unlock growth opportunities
+
 I quit my job to co-found [the human-centred insights consultancy](https://www.itdepends.dk/) that nobody else was going to.
 
 We partner with B2C companies, non-profits, and public institutions to design offerings that meet human needs.
