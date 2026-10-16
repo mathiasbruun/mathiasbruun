@@ -36,6 +36,6 @@ This is what that feels like:
 
 ## Learn how we can help you
 
-We quantify human needs to unlock growth opportunities. Read our case studies to learn how it works: [www.itdepends.dk/cases](www.itdepends.dk/cases)
+We quantify human needs to unlock growth opportunities. [Read our case studies](www.itdepends.dk/cases) to learn how it works.
 
 Or, if you simply want to pick the brain of a consumer insights expert, no strings attached: [mathias@itdepends.dk](mailto:mathias@itdepends.dk)
